@@ -1,6 +1,6 @@
 # Bredi WordPress Boilerplate
 
-Tema base WordPress desenvolvido pela equipe de front-end da [Bredi](https://bredi.com.br), baseado no [Underscores](https://underscores.me).
+Tema  baseado no [Underscores](https://underscores.me).
 
 ## Requisitos
 
