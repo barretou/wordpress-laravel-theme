@@ -1,4 +1,4 @@
-# Bredi WordPress Boilerplate
+#  WordPress Boilerplate mixed Laravel
 
 Tema  baseado no [Underscores](https://underscores.me).
 
@@ -11,15 +11,7 @@ Tema  baseado no [Underscores](https://underscores.me).
 
 ## Instalando o boilerplate
 
-Clone o [boilerplate](https://github.com/brediweb/boilerplate-wordpress) dentro da sua instalação do WordPress em `meu-projeto\wp-content\themes` e entre no diretório do projeto:
-
-```bash
-  git clone https://github.com/brediweb/boilerplate-wordpress.git bredi
-```
-
-```bash
-  cd bredi
-```
+Clone o projeto para sua máquina local.
 
 Exclua a pasta `.git` para não versioná-la. Caso precise versionar seu projeto, inicialize o git em branco:
 
